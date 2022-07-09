@@ -1,0 +1,26 @@
+{
+  "name": "discord-bot-practising",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "v": "node -v",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/builders": "^0.6.0",
+    "@discordjs/rest": "^0.1.0-canary.0",
+    "axios": "^0.21.4",
+    "discord": "^0.8.2",
+    "discord-api-types": "^0.23.1",
+    "discord.js": "^13.1.0",
+    "node": "16.6.1"
+  },
+  "engines": {
+    "node": "16.x"
+  }
+}

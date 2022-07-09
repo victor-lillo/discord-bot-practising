@@ -1,0 +1,100 @@
+<!-- 
+      ___             ___                   ___  __   __        __  
+|    |__  \  / |  /\   |  |__|  /\  |\ |     |  /  \ /  \ |    /__` 
+|___ |___  \/  | /--\  |  |  | /--\ | \|     |  \__/ \__/ |___ .__/ 
+                                                                    
+
+
+ -->
+
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=ç, initial-scale=1.0">
+    <title>XXXXXXXX Tools - Top from collection</title>
+</head>
+
+<body class="body">
+  
+   <header><img class="header" src="https://i.ibb.co/1RkWSmg/top-header.png" /></header>
+
+    <div class="container">
+
+     {elemento-lista}    
+    
+    </div>
+
+     
+     <style>
+                body {
+                        background-color: grey;
+                        background-color: #003049;
+                        color: white;
+                        font-family: 'Courier New', Courier, monospace;
+                        white-space: nowrap;
+                        text-overflow: ellipsis;
+
+                }
+
+                a:hover,
+                a:visited,
+                a:link,
+                a:active {
+                        color: #eae2b7;
+                        text-decoration: none;
+                }
+
+                a:hover {
+                        opacity: 0.7;
+                }
+
+                .body {
+                        display: flex;
+                        align-items: center;
+                        flex-direction: column;
+                }
+
+                .header {
+                        width: 670px;
+                }
+
+                .container {
+                        display: flex;
+                        flex-direction: column;
+                        align-items: center;
+                        gap: 8px;
+                        width: 75%;
+                        /* border: 1px solid red; */
+                }
+
+                .list_item {
+                        border-bottom: 1px solid #003f61;
+                        padding-bottom: 4px;
+                        display: flex;
+                        gap: 15px;
+                }
+
+                .number {
+                        text-align: right;
+                        width: 90px;
+                        font-weight: bold;
+                }
+
+                .name {
+                        text-align: center;
+                        width: 400px;
+                }
+
+                .score {
+                        align-items: right;
+                }
+        </style>
+
+
+</body>
+
+</html>
