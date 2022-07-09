@@ -3,7 +3,7 @@
 
 # Discord-bot-practising
 
-> Discord bot I created to test the new Discord.js.
+> Discord bot I created to test the new Discord.js. Few features implemented. 
 
 ## Usage
 
