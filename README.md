@@ -20,7 +20,7 @@ Based on sharing tweets (mentioning a tw account) in a specific channel.
 Reply with a DM.
 
 ### ``NFT collection rarity access``
-Based on the result of the other repos [solanart-rarity-calculator](https://github.com/fentosv/solanart-rarity-calculator) and [opensea-rarity-calculator](https://github.com/fentosv/opensea-rarity-calculator).
+Based on the result of the other repos [solanart-rarity-calculator](https://github.com/victor-lillo/solanart-rarity-calculator) and [opensea-rarity-calculator](https://github.com/victor-lillo/opensea-rarity-calculator).
 You can ask for 
 * **rarity** ``!rarity collectionSlug nft_token_id`` - Returns the rarity info of a NFT.
 * **rank** ``!rank collectionSlug rankNumber`` - Returns the NFT ranked in the desired position.
